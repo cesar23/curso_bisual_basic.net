@@ -1,0 +1,4 @@
+C:\Users\trainer\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

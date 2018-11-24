@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\StreamWriter.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\StreamWriter.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\StreamWriter\StreamWriter\obj\x86\Debug\StreamWriter.pdb

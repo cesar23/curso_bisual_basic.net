@@ -1,0 +1,11 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\bin\Debug\Formulario1.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\bin\Debug\Formulario1.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\bin\Debug\Formulario1.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\Formulario1.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\Formulario1.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\Formulario1\Formulario1\obj\x86\Debug\Formulario1.pdb

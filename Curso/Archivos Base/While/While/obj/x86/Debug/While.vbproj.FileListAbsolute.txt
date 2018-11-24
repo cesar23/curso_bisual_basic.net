@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\bin\Debug\While.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\bin\Debug\While.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\bin\Debug\While.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\While.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\While.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\While\While\obj\x86\Debug\While.pdb

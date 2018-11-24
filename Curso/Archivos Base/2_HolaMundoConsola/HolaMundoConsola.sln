@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HolaMundoConsola", "HolaMundoConsola\HolaMundoConsola.vbproj", "{93CD679C-A93B-4CC3-87D8-26622A95AF3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CD679C-A93B-4CC3-87D8-26622A95AF3D}.Debug|x86.ActiveCfg = Debug|x86
+		{93CD679C-A93B-4CC3-87D8-26622A95AF3D}.Debug|x86.Build.0 = Debug|x86
+		{93CD679C-A93B-4CC3-87D8-26622A95AF3D}.Release|x86.ActiveCfg = Release|x86
+		{93CD679C-A93B-4CC3-87D8-26622A95AF3D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

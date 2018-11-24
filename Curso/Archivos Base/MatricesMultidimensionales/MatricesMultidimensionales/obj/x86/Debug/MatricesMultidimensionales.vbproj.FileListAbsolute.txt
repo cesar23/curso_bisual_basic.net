@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\bin\Debug\MatricesMultidimensionales.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\MatricesMultidimensionales.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\MatricesMultidimensionales.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\MatricesMultidimensionales\MatricesMultidimensionales\obj\x86\Debug\MatricesMultidimensionales.pdb

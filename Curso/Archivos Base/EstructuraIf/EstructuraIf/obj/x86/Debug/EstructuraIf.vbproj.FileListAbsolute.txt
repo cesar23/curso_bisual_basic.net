@@ -1,0 +1,10 @@
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\bin\Debug\EstructuraIf.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\bin\Debug\EstructuraIf.pdb
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\bin\Debug\EstructuraIf.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\ConsoleApplication1.Resources.resources
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\EstructuraIf.exe
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\EstructuraIf.xml
+C:\Users\trainer\documents\visual studio 2010\Projects\EstructuraIf\EstructuraIf\obj\x86\Debug\EstructuraIf.pdb
